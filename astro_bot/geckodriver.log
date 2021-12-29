@@ -1,0 +1,575 @@
+1589743457007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8OO0s5"
+1589743457323	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589743457650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589743457650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589743457650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589743457650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:9044): GLib-GIO-CRITICAL **: 16:24:17.834: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:9044): GLib-GIO-CRITICAL **: 16:24:17.834: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:9044): GLib-GIO-CRITICAL **: 16:24:17.834: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589743459545	Marionette	INFO	Listening on port 45747
+1589743459633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589743503340	Marionette	INFO	Stopped listening on port 45747
+1589753845193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1sQj47"
+1589753845475	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589753845799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589753845799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589753845799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589753845799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:28371): GLib-GIO-CRITICAL **: 19:17:25.983: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:28371): GLib-GIO-CRITICAL **: 19:17:25.983: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:28371): GLib-GIO-CRITICAL **: 19:17:25.983: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589753847644	Marionette	INFO	Listening on port 42451
+1589753847700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589753856621	Marionette	INFO	Stopped listening on port 42451
+1589753858409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekbGgbV"
+1589753858682	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589753859006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589753859006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589753859007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589753859007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:15180): GLib-GIO-CRITICAL **: 19:17:39.184: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:15180): GLib-GIO-CRITICAL **: 19:17:39.184: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:15180): GLib-GIO-CRITICAL **: 19:17:39.184: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589753860918	Marionette	INFO	Listening on port 40623
+1589753861014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589753877525	Marionette	INFO	Stopped listening on port 40623
+1589755490165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexMyswn"
+1589755490433	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589755490757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589755490757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589755490757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589755490757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:1096): GLib-GIO-CRITICAL **: 19:44:50.956: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:1096): GLib-GIO-CRITICAL **: 19:44:50.956: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:1096): GLib-GIO-CRITICAL **: 19:44:50.956: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589755492604	Marionette	INFO	Listening on port 36113
+1589755492675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589755536225	Marionette	INFO	Stopped listening on port 36113
+1589755599857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyU7Edx"
+1589755600118	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589755600423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589755600423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589755600423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589755600423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:8312): GLib-GIO-CRITICAL **: 19:46:40.610: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8312): GLib-GIO-CRITICAL **: 19:46:40.610: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8312): GLib-GIO-CRITICAL **: 19:46:40.610: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589755602257	Marionette	INFO	Listening on port 35019
+1589755602270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589755857905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7gbHLP"
+1589755858189	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589755858534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589755858534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589755858534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589755858534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:5310): GLib-GIO-CRITICAL **: 19:50:58.722: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:5310): GLib-GIO-CRITICAL **: 19:50:58.722: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:5310): GLib-GIO-CRITICAL **: 19:50:58.722: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589755860470	Marionette	INFO	Listening on port 33331
+1589755860511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.hola.com/horoscopo/tauro/, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.hola.com/horoscopo/tauro/, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.hola.com/horoscopo/tauro/, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.hola.com/horoscopo/tauro/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.hola.com/horoscopo/tauro/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.hola.com/horoscopo/tauro/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://cdn.ampproject.org/rtv/012005012256000/amp4ads-v0.js, line 29: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/es.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012005012256000/amp4ads-v0.js, line 29: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+1589756012276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley4KXOb"
+1589756012537	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756012851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756012851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756012851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756012851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:6762): GLib-GIO-CRITICAL **: 19:53:33.035: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:6762): GLib-GIO-CRITICAL **: 19:53:33.035: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:6762): GLib-GIO-CRITICAL **: 19:53:33.035: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589756014752	Marionette	INFO	Listening on port 46439
+1589756014808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589756031156	Marionette	INFO	Stopped listening on port 46439
+1589756123328	Marionette	INFO	Stopped listening on port 35019
+1589756125271	Marionette	INFO	Stopped listening on port 33331
+1589756661050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIajqxM"
+1589756661350	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756661664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756661664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756661664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756661664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:4920): GLib-GIO-CRITICAL **: 20:04:21.843: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:4920): GLib-GIO-CRITICAL **: 20:04:21.843: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:4920): GLib-GIO-CRITICAL **: 20:04:21.843: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589756663425	Marionette	INFO	Listening on port 33523
+1589756663456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589756675931	Marionette	INFO	Stopped listening on port 33523
+1589756712080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVlQ0w6"
+1589756712352	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756712667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756712667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756712667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756712667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:13704): GLib-GIO-CRITICAL **: 20:05:12.859: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:13704): GLib-GIO-CRITICAL **: 20:05:12.860: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:13704): GLib-GIO-CRITICAL **: 20:05:12.860: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589756714610	Marionette	INFO	Listening on port 39577
+1589756714702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589756729147	Marionette	INFO	Stopped listening on port 39577
+1589756801498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS0qP5U"
+1589756801801	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756802121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756802121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756802121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756802121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:14627): GLib-GIO-CRITICAL **: 20:06:42.310: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:14627): GLib-GIO-CRITICAL **: 20:06:42.310: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:14627): GLib-GIO-CRITICAL **: 20:06:42.310: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589756803817	Marionette	INFO	Listening on port 42121
+1589756803904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589756845644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileer5A5B"
+1589756845902	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756846198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756846198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756846198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756846198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:14577): GLib-GIO-CRITICAL **: 20:07:26.373: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:14577): GLib-GIO-CRITICAL **: 20:07:26.373: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:14577): GLib-GIO-CRITICAL **: 20:07:26.373: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589756848080	Marionette	INFO	Listening on port 42739
+1589756848162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589756862963	Marionette	INFO	Stopped listening on port 42739
+1589756871205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile83FtTU"
+1589756871514	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756871842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756871842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756871842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756871842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:19113): GLib-GIO-CRITICAL **: 20:07:52.040: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:19113): GLib-GIO-CRITICAL **: 20:07:52.041: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:19113): GLib-GIO-CRITICAL **: 20:07:52.041: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589756873663	Marionette	INFO	Listening on port 43045
+1589756873711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589756918854	Marionette	INFO	Stopped listening on port 42121
+1589757012077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq6PFHR"
+1589757012356	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589757012669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589757012669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589757012669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589757012670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:8174): GLib-GIO-CRITICAL **: 20:10:12.856: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8174): GLib-GIO-CRITICAL **: 20:10:12.856: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8174): GLib-GIO-CRITICAL **: 20:10:12.856: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589757014616	Marionette	INFO	Listening on port 39395
+1589757014684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589757151233	Marionette	INFO	Stopped listening on port 39395
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.hola.com/js/comunes/datalayer-social.js?v16, line 2: ReferenceError: LoginRadiusV2 is not defined
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.hola.com/js/comunes/datalayer-social.js?v16, line 2: ReferenceError: LoginRadiusV2 is not defined
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.hola.com/js/comunes/datalayer-social.js?v16, line 2: ReferenceError: LoginRadiusV2 is not defined
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200514/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200511/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4346803846097853&output=html&h=90&slotname=hola_970x90-upr&adk=3530207248&adf=3791526548&w=970&guci=2.2.0.0.2.2.0.0&url=https%3A%2F%2Fwww.hola.com%2Fhoroscopo%2Ftauro%2F&ea=0&flash=0&wgl=1&adsid=NT&dt=1589791260202&bpp=13&bdt=M&idt=60&shv=r20200511&cbv=r20190131&ptt=5&saldr=sa&cookie=ID%3D6da8b7fa58e929c5%3AT%3D1589760482%3AS%3DALNI_Mbv-I6yGN3fHRh4J_3jK6IBJ3ap0A&crv=1&correlator=2685188407285&frm=23&ife=1&pv=1&ga_vid=886579667.1589769536&ga_sid=1589791260&ga_hid=329035911&ga_fc=1&icsg=554&nhd=1&dssz=7&mdo=0&mso=0&u_tz=-180&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1048&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=149&ady=778&biw=1268&bih=869&isw=970&ish=90&ifk=27796356&scr_x=0&scr_y=0&eid=21066085&oid=3&pvsid=3028916889339015&pem=791&rx=0&eae=2&fc=896&brdim=636%2C73%2C636%2C73%2C1920%2C0%2C1280%2C943%2C970%2C90&vis=1&rsz=%7C%7CoE%7C&abl=CS&pfx=0&fu=8212&bc=29&ifi=1&uci=1.a4fq39qep4ug&dtd=93, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200511/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.hola.com/js/comunes/datalayer-social.js?v16, line 2: ReferenceError: LoginRadiusV2 is not defined
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://2b5c5d392c7ecf9779bee4f0f29bbfc4.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 16: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.hola.com/js/comunes/datalayer-social.js?v16, line 2: ReferenceError: LoginRadiusV2 is not defined
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.hola.com/js/comunes/datalayer-social.js?v16, line 2: ReferenceError: LoginRadiusV2 is not defined
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.hola.com/js/comunes/datalayer-social.js?v16, line 2: ReferenceError: LoginRadiusV2 is not defined
+1589842659333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepYiM0D"
+1589842659602	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589842659900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589842659900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589842659900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589842659900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:16607): GLib-GIO-CRITICAL **: 19:57:40.089: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:16607): GLib-GIO-CRITICAL **: 19:57:40.089: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:16607): GLib-GIO-CRITICAL **: 19:57:40.089: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589842661740	Marionette	INFO	Listening on port 37639
+1589842661855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589842692520	Marionette	INFO	Stopped listening on port 37639
+1589842741774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV2bXVM"
+1589842742045	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589842742350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589842742350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589842742351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589842742351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:12244): GLib-GIO-CRITICAL **: 19:59:02.536: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:12244): GLib-GIO-CRITICAL **: 19:59:02.536: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:12244): GLib-GIO-CRITICAL **: 19:59:02.536: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589842744168	Marionette	INFO	Listening on port 43319
+1589842744189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589842949078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletO3T4w"
+1589842949352	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589842949655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589842949655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589842949655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589842949655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:13838): GLib-GIO-CRITICAL **: 20:02:29.830: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:13838): GLib-GIO-CRITICAL **: 20:02:29.830: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:13838): GLib-GIO-CRITICAL **: 20:02:29.830: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589842951418	Marionette	INFO	Listening on port 34995
+1589842951484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589843727876	Marionette	INFO	Stopped listening on port 34995
+1589844502147	Marionette	INFO	Stopped listening on port 43319
+1589844504743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerUmqL9"
+1589844505007	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589844505324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589844505325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589844505325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589844505325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:9593): GLib-GIO-CRITICAL **: 20:28:25.501: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:9593): GLib-GIO-CRITICAL **: 20:28:25.501: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:9593): GLib-GIO-CRITICAL **: 20:28:25.501: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589844507032	Marionette	INFO	Listening on port 45415
+1589844507051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589844758729	Marionette	INFO	Stopped listening on port 45415
+1589844760021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW3xfTN"
+1589844760287	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589844760592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589844760592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589844760593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589844760593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:20483): GLib-GIO-CRITICAL **: 20:32:40.784: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:20483): GLib-GIO-CRITICAL **: 20:32:40.784: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:20483): GLib-GIO-CRITICAL **: 20:32:40.784: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589844762306	Marionette	INFO	Listening on port 40607
+1589844762326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589844805603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHv9ZyS"
+1589844805906	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589844806238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589844806238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589844806238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589844806239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:27001): GLib-GIO-CRITICAL **: 20:33:26.420: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:27001): GLib-GIO-CRITICAL **: 20:33:26.420: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:27001): GLib-GIO-CRITICAL **: 20:33:26.420: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589844807936	Marionette	INFO	Listening on port 34945
+1589844808014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589844886638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKJrgah"
+1589844886894	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589844887199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589844887199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589844887199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589844887199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:25598): GLib-GIO-CRITICAL **: 20:34:47.375: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:25598): GLib-GIO-CRITICAL **: 20:34:47.375: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:25598): GLib-GIO-CRITICAL **: 20:34:47.375: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589844888901	Marionette	INFO	Listening on port 43829
+1589844888945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589844903653	Marionette	INFO	Stopped listening on port 43829
+1589844903757	Marionette	INFO	Stopped listening on port 34945
+1589844906142	Marionette	INFO	Stopped listening on port 40607
+1589844957555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile26U5sH"
+1589844957849	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589844958171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589844958171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589844958172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589844958172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:4761): GLib-GIO-CRITICAL **: 20:35:58.359: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:4761): GLib-GIO-CRITICAL **: 20:35:58.359: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:4761): GLib-GIO-CRITICAL **: 20:35:58.359: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589844960011	Marionette	INFO	Listening on port 38137
+1589844960061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589845061951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2JBLmP"
+1589845062209	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589845062517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589845062517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589845062517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589845062517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:8854): GLib-GIO-CRITICAL **: 20:37:42.687: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8854): GLib-GIO-CRITICAL **: 20:37:42.688: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8854): GLib-GIO-CRITICAL **: 20:37:42.688: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589845064379	Marionette	INFO	Listening on port 46725
+1589845064469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589845164944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO5pY72"
+1589845165241	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589845165556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589845165556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589845165556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589845165556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:6595): GLib-GIO-CRITICAL **: 20:39:25.731: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:6595): GLib-GIO-CRITICAL **: 20:39:25.731: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:6595): GLib-GIO-CRITICAL **: 20:39:25.731: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589845167382	Marionette	INFO	Listening on port 42547
+1589845167452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589845364922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepkZ3vS"
+1589845365179	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589845365453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589845365454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589845365454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589845365454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:22696): GLib-GIO-CRITICAL **: 20:42:45.604: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:22696): GLib-GIO-CRITICAL **: 20:42:45.604: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:22696): GLib-GIO-CRITICAL **: 20:42:45.604: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589845367071	Marionette	INFO	Listening on port 44593
+1589845367127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589845894808	Marionette	INFO	Stopped listening on port 44593
+1589845896002	Marionette	INFO	Stopped listening on port 42547
+1589845898272	Marionette	INFO	Stopped listening on port 46725
+1589845899604	Marionette	INFO	Stopped listening on port 38137
+1589853792362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFHjwln"
+1589853792637	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589853792953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589853792953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589853792953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589853792953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:31212): GLib-GIO-CRITICAL **: 23:03:13.148: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:31212): GLib-GIO-CRITICAL **: 23:03:13.148: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:31212): GLib-GIO-CRITICAL **: 23:03:13.149: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589853794766	Marionette	INFO	Listening on port 41741
+1589853794869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589853903977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC2G9c7"
+1589853904228	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589853904523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589853904523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589853904523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589853904523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:5196): GLib-GIO-CRITICAL **: 23:05:04.696: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:5196): GLib-GIO-CRITICAL **: 23:05:04.696: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:5196): GLib-GIO-CRITICAL **: 23:05:04.696: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589853906340	Marionette	INFO	Listening on port 44943
+1589853906385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589853931160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea94Mxy"
+1589853931445	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589853931771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589853931771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589853931771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589853931771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:10359): GLib-GIO-CRITICAL **: 23:05:31.950: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:10359): GLib-GIO-CRITICAL **: 23:05:31.950: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:10359): GLib-GIO-CRITICAL **: 23:05:31.951: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589853933499	Marionette	INFO	Listening on port 41105
+1589853933566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589854011307	Marionette	INFO	Stopped listening on port 41105
+1589854012644	Marionette	INFO	Stopped listening on port 44943
+1589854013564	Marionette	INFO	Stopped listening on port 41741
+1589854016732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOGMui7"
+1589854017014	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589854017341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589854017341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589854017341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589854017341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:1635): GLib-GIO-CRITICAL **: 23:06:57.525: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:1635): GLib-GIO-CRITICAL **: 23:06:57.525: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:1635): GLib-GIO-CRITICAL **: 23:06:57.525: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589854019238	Marionette	INFO	Listening on port 39971
+1589854019342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589854035900	Marionette	INFO	Stopped listening on port 39971

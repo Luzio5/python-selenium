@@ -1,0 +1,1160 @@
+1589743457007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8OO0s5"
+1589743457323	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589743457650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589743457650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589743457650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589743457650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:9044): GLib-GIO-CRITICAL **: 16:24:17.834: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:9044): GLib-GIO-CRITICAL **: 16:24:17.834: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:9044): GLib-GIO-CRITICAL **: 16:24:17.834: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589743459545	Marionette	INFO	Listening on port 45747
+1589743459633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589743503340	Marionette	INFO	Stopped listening on port 45747
+1589753845193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1sQj47"
+1589753845475	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589753845799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589753845799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589753845799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589753845799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:28371): GLib-GIO-CRITICAL **: 19:17:25.983: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:28371): GLib-GIO-CRITICAL **: 19:17:25.983: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:28371): GLib-GIO-CRITICAL **: 19:17:25.983: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589753847644	Marionette	INFO	Listening on port 42451
+1589753847700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589753856621	Marionette	INFO	Stopped listening on port 42451
+1589753858409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekbGgbV"
+1589753858682	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589753859006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589753859006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589753859007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589753859007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:15180): GLib-GIO-CRITICAL **: 19:17:39.184: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:15180): GLib-GIO-CRITICAL **: 19:17:39.184: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:15180): GLib-GIO-CRITICAL **: 19:17:39.184: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589753860918	Marionette	INFO	Listening on port 40623
+1589753861014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589753877525	Marionette	INFO	Stopped listening on port 40623
+1589755490165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexMyswn"
+1589755490433	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589755490757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589755490757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589755490757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589755490757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:1096): GLib-GIO-CRITICAL **: 19:44:50.956: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:1096): GLib-GIO-CRITICAL **: 19:44:50.956: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:1096): GLib-GIO-CRITICAL **: 19:44:50.956: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589755492604	Marionette	INFO	Listening on port 36113
+1589755492675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589755536225	Marionette	INFO	Stopped listening on port 36113
+1589755599857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyU7Edx"
+1589755600118	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589755600423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589755600423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589755600423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589755600423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:8312): GLib-GIO-CRITICAL **: 19:46:40.610: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8312): GLib-GIO-CRITICAL **: 19:46:40.610: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8312): GLib-GIO-CRITICAL **: 19:46:40.610: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589755602257	Marionette	INFO	Listening on port 35019
+1589755602270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589755857905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7gbHLP"
+1589755858189	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589755858534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589755858534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589755858534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589755858534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:5310): GLib-GIO-CRITICAL **: 19:50:58.722: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:5310): GLib-GIO-CRITICAL **: 19:50:58.722: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:5310): GLib-GIO-CRITICAL **: 19:50:58.722: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589755860470	Marionette	INFO	Listening on port 33331
+1589755860511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.hola.com/horoscopo/tauro/, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.hola.com/horoscopo/tauro/, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.hola.com/horoscopo/tauro/, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.hola.com/horoscopo/tauro/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.hola.com/horoscopo/tauro/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.hola.com/horoscopo/tauro/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://cdn.ampproject.org/rtv/012005012256000/amp4ads-v0.js, line 29: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/es.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012005012256000/amp4ads-v0.js, line 29: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+1589756012276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley4KXOb"
+1589756012537	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756012851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756012851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756012851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756012851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:6762): GLib-GIO-CRITICAL **: 19:53:33.035: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:6762): GLib-GIO-CRITICAL **: 19:53:33.035: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:6762): GLib-GIO-CRITICAL **: 19:53:33.035: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589756014752	Marionette	INFO	Listening on port 46439
+1589756014808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589756031156	Marionette	INFO	Stopped listening on port 46439
+1589756123328	Marionette	INFO	Stopped listening on port 35019
+1589756125271	Marionette	INFO	Stopped listening on port 33331
+1589756661050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIajqxM"
+1589756661350	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756661664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756661664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756661664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756661664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:4920): GLib-GIO-CRITICAL **: 20:04:21.843: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:4920): GLib-GIO-CRITICAL **: 20:04:21.843: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:4920): GLib-GIO-CRITICAL **: 20:04:21.843: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589756663425	Marionette	INFO	Listening on port 33523
+1589756663456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589756675931	Marionette	INFO	Stopped listening on port 33523
+1589756712080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVlQ0w6"
+1589756712352	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756712667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756712667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756712667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756712667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:13704): GLib-GIO-CRITICAL **: 20:05:12.859: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:13704): GLib-GIO-CRITICAL **: 20:05:12.860: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:13704): GLib-GIO-CRITICAL **: 20:05:12.860: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589756714610	Marionette	INFO	Listening on port 39577
+1589756714702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589756729147	Marionette	INFO	Stopped listening on port 39577
+1589756801498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS0qP5U"
+1589756801801	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756802121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756802121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756802121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756802121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:14627): GLib-GIO-CRITICAL **: 20:06:42.310: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:14627): GLib-GIO-CRITICAL **: 20:06:42.310: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:14627): GLib-GIO-CRITICAL **: 20:06:42.310: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589756803817	Marionette	INFO	Listening on port 42121
+1589756803904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589756845644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileer5A5B"
+1589756845902	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756846198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756846198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756846198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756846198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:14577): GLib-GIO-CRITICAL **: 20:07:26.373: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:14577): GLib-GIO-CRITICAL **: 20:07:26.373: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:14577): GLib-GIO-CRITICAL **: 20:07:26.373: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589756848080	Marionette	INFO	Listening on port 42739
+1589756848162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589756862963	Marionette	INFO	Stopped listening on port 42739
+1589756871205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile83FtTU"
+1589756871514	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756871842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756871842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756871842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756871842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:19113): GLib-GIO-CRITICAL **: 20:07:52.040: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:19113): GLib-GIO-CRITICAL **: 20:07:52.041: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:19113): GLib-GIO-CRITICAL **: 20:07:52.041: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589756873663	Marionette	INFO	Listening on port 43045
+1589756873711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589756918854	Marionette	INFO	Stopped listening on port 42121
+1589757012077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq6PFHR"
+1589757012356	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589757012669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589757012669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589757012669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589757012670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:8174): GLib-GIO-CRITICAL **: 20:10:12.856: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8174): GLib-GIO-CRITICAL **: 20:10:12.856: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8174): GLib-GIO-CRITICAL **: 20:10:12.856: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589757014616	Marionette	INFO	Listening on port 39395
+1589757014684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589757151233	Marionette	INFO	Stopped listening on port 39395
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.hola.com/js/comunes/datalayer-social.js?v16, line 2: ReferenceError: LoginRadiusV2 is not defined
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.hola.com/js/comunes/datalayer-social.js?v16, line 2: ReferenceError: LoginRadiusV2 is not defined
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.hola.com/js/comunes/datalayer-social.js?v16, line 2: ReferenceError: LoginRadiusV2 is not defined
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200514/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200511/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4346803846097853&output=html&h=90&slotname=hola_970x90-upr&adk=3530207248&adf=3791526548&w=970&guci=2.2.0.0.2.2.0.0&url=https%3A%2F%2Fwww.hola.com%2Fhoroscopo%2Ftauro%2F&ea=0&flash=0&wgl=1&adsid=NT&dt=1589791260202&bpp=13&bdt=M&idt=60&shv=r20200511&cbv=r20190131&ptt=5&saldr=sa&cookie=ID%3D6da8b7fa58e929c5%3AT%3D1589760482%3AS%3DALNI_Mbv-I6yGN3fHRh4J_3jK6IBJ3ap0A&crv=1&correlator=2685188407285&frm=23&ife=1&pv=1&ga_vid=886579667.1589769536&ga_sid=1589791260&ga_hid=329035911&ga_fc=1&icsg=554&nhd=1&dssz=7&mdo=0&mso=0&u_tz=-180&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1048&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=149&ady=778&biw=1268&bih=869&isw=970&ish=90&ifk=27796356&scr_x=0&scr_y=0&eid=21066085&oid=3&pvsid=3028916889339015&pem=791&rx=0&eae=2&fc=896&brdim=636%2C73%2C636%2C73%2C1920%2C0%2C1280%2C943%2C970%2C90&vis=1&rsz=%7C%7CoE%7C&abl=CS&pfx=0&fu=8212&bc=29&ifi=1&uci=1.a4fq39qep4ug&dtd=93, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200511/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.hola.com/js/comunes/datalayer-social.js?v16, line 2: ReferenceError: LoginRadiusV2 is not defined
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://2b5c5d392c7ecf9779bee4f0f29bbfc4.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 16: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.hola.com/js/comunes/datalayer-social.js?v16, line 2: ReferenceError: LoginRadiusV2 is not defined
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.hola.com/js/comunes/datalayer-social.js?v16, line 2: ReferenceError: LoginRadiusV2 is not defined
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.hola.com/js/comunes/datalayer-social.js?v16, line 2: ReferenceError: LoginRadiusV2 is not defined
+1589842659333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepYiM0D"
+1589842659602	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589842659900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589842659900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589842659900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589842659900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:16607): GLib-GIO-CRITICAL **: 19:57:40.089: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:16607): GLib-GIO-CRITICAL **: 19:57:40.089: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:16607): GLib-GIO-CRITICAL **: 19:57:40.089: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589842661740	Marionette	INFO	Listening on port 37639
+1589842661855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589842692520	Marionette	INFO	Stopped listening on port 37639
+1589842741774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV2bXVM"
+1589842742045	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589842742350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589842742350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589842742351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589842742351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:12244): GLib-GIO-CRITICAL **: 19:59:02.536: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:12244): GLib-GIO-CRITICAL **: 19:59:02.536: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:12244): GLib-GIO-CRITICAL **: 19:59:02.536: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589842744168	Marionette	INFO	Listening on port 43319
+1589842744189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589842949078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletO3T4w"
+1589842949352	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589842949655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589842949655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589842949655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589842949655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:13838): GLib-GIO-CRITICAL **: 20:02:29.830: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:13838): GLib-GIO-CRITICAL **: 20:02:29.830: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:13838): GLib-GIO-CRITICAL **: 20:02:29.830: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589842951418	Marionette	INFO	Listening on port 34995
+1589842951484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589843727876	Marionette	INFO	Stopped listening on port 34995
+1589844502147	Marionette	INFO	Stopped listening on port 43319
+1589844504743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerUmqL9"
+1589844505007	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589844505324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589844505325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589844505325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589844505325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:9593): GLib-GIO-CRITICAL **: 20:28:25.501: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:9593): GLib-GIO-CRITICAL **: 20:28:25.501: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:9593): GLib-GIO-CRITICAL **: 20:28:25.501: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589844507032	Marionette	INFO	Listening on port 45415
+1589844507051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589844758729	Marionette	INFO	Stopped listening on port 45415
+1589844760021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW3xfTN"
+1589844760287	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589844760592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589844760592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589844760593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589844760593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:20483): GLib-GIO-CRITICAL **: 20:32:40.784: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:20483): GLib-GIO-CRITICAL **: 20:32:40.784: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:20483): GLib-GIO-CRITICAL **: 20:32:40.784: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589844762306	Marionette	INFO	Listening on port 40607
+1589844762326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589844805603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHv9ZyS"
+1589844805906	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589844806238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589844806238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589844806238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589844806239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:27001): GLib-GIO-CRITICAL **: 20:33:26.420: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:27001): GLib-GIO-CRITICAL **: 20:33:26.420: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:27001): GLib-GIO-CRITICAL **: 20:33:26.420: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589844807936	Marionette	INFO	Listening on port 34945
+1589844808014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589844886638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKJrgah"
+1589844886894	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589844887199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589844887199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589844887199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589844887199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:25598): GLib-GIO-CRITICAL **: 20:34:47.375: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:25598): GLib-GIO-CRITICAL **: 20:34:47.375: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:25598): GLib-GIO-CRITICAL **: 20:34:47.375: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589844888901	Marionette	INFO	Listening on port 43829
+1589844888945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589844903653	Marionette	INFO	Stopped listening on port 43829
+1589844903757	Marionette	INFO	Stopped listening on port 34945
+1589844906142	Marionette	INFO	Stopped listening on port 40607
+1589844957555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile26U5sH"
+1589844957849	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589844958171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589844958171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589844958172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589844958172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:4761): GLib-GIO-CRITICAL **: 20:35:58.359: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:4761): GLib-GIO-CRITICAL **: 20:35:58.359: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:4761): GLib-GIO-CRITICAL **: 20:35:58.359: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589844960011	Marionette	INFO	Listening on port 38137
+1589844960061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589845061951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2JBLmP"
+1589845062209	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589845062517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589845062517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589845062517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589845062517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:8854): GLib-GIO-CRITICAL **: 20:37:42.687: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8854): GLib-GIO-CRITICAL **: 20:37:42.688: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:8854): GLib-GIO-CRITICAL **: 20:37:42.688: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589845064379	Marionette	INFO	Listening on port 46725
+1589845064469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589845164944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO5pY72"
+1589845165241	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589845165556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589845165556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589845165556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589845165556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:6595): GLib-GIO-CRITICAL **: 20:39:25.731: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:6595): GLib-GIO-CRITICAL **: 20:39:25.731: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:6595): GLib-GIO-CRITICAL **: 20:39:25.731: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589845167382	Marionette	INFO	Listening on port 42547
+1589845167452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589845364922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepkZ3vS"
+1589845365179	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589845365453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589845365454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589845365454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589845365454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:22696): GLib-GIO-CRITICAL **: 20:42:45.604: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:22696): GLib-GIO-CRITICAL **: 20:42:45.604: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:22696): GLib-GIO-CRITICAL **: 20:42:45.604: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589845367071	Marionette	INFO	Listening on port 44593
+1589845367127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589845894808	Marionette	INFO	Stopped listening on port 44593
+1589845896002	Marionette	INFO	Stopped listening on port 42547
+1589845898272	Marionette	INFO	Stopped listening on port 46725
+1589845899604	Marionette	INFO	Stopped listening on port 38137
+1589853792362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFHjwln"
+1589853792637	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589853792953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589853792953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589853792953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589853792953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:31212): GLib-GIO-CRITICAL **: 23:03:13.148: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:31212): GLib-GIO-CRITICAL **: 23:03:13.148: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:31212): GLib-GIO-CRITICAL **: 23:03:13.149: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589853794766	Marionette	INFO	Listening on port 41741
+1589853794869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589853903977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC2G9c7"
+1589853904228	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589853904523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589853904523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589853904523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589853904523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:5196): GLib-GIO-CRITICAL **: 23:05:04.696: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:5196): GLib-GIO-CRITICAL **: 23:05:04.696: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:5196): GLib-GIO-CRITICAL **: 23:05:04.696: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589853906340	Marionette	INFO	Listening on port 44943
+1589853906385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589853931160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea94Mxy"
+1589853931445	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589853931771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589853931771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589853931771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589853931771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:10359): GLib-GIO-CRITICAL **: 23:05:31.950: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:10359): GLib-GIO-CRITICAL **: 23:05:31.950: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:10359): GLib-GIO-CRITICAL **: 23:05:31.951: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589853933499	Marionette	INFO	Listening on port 41105
+1589853933566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589854011307	Marionette	INFO	Stopped listening on port 41105
+1589854012644	Marionette	INFO	Stopped listening on port 44943
+1589854013564	Marionette	INFO	Stopped listening on port 41741
+1589854016732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOGMui7"
+1589854017014	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589854017341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589854017341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589854017341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589854017341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:1635): GLib-GIO-CRITICAL **: 23:06:57.525: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:1635): GLib-GIO-CRITICAL **: 23:06:57.525: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(firefox:1635): GLib-GIO-CRITICAL **: 23:06:57.525: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+1589854019238	Marionette	INFO	Listening on port 39971
+1589854019342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+JavaScript error: https://www.himgs.com/js/comunes/ads/staticAdsSRA.min.js, line 1: TypeError: googletag.pubads is not a function
+1589854035900	Marionette	INFO	Stopped listening on port 39971
+1599403287426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAoaP2j"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599403289196	Marionette	INFO	Listening on port 46243
+1599403289230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599403344868	Marionette	INFO	Stopped listening on port 46243
+1599403347025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezVSC2d"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599403348589	Marionette	INFO	Listening on port 42845
+1599403348684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599403708867	Marionette	INFO	Stopped listening on port 42845
+1599403727666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVgTgSL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599403729231	Marionette	INFO	Listening on port 33443
+1599403729270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599404017241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2WqToB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599404018984	Marionette	INFO	Listening on port 41063
+1599404019046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599404029391	Marionette	INFO	Stopped listening on port 41063
+1599404119925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile99sMAn"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599404121475	Marionette	INFO	Listening on port 37741
+1599404121529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599404140683	Marionette	INFO	Stopped listening on port 37741
+1599404180972	Marionette	INFO	Stopped listening on port 33443
+1599404185359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYzVLa4"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599404186824	Marionette	INFO	Listening on port 35475
+1599404186864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599404526371	Marionette	INFO	Stopped listening on port 35475
+1599404528983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHt5Gi0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599404530471	Marionette	INFO	Listening on port 41427
+1599404531909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599404540747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6mWrYe"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599404542276	Marionette	INFO	Listening on port 38397
+1599404542411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599404615728	Marionette	INFO	Stopped listening on port 41427
+1599404946403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecT4Bf5"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599404948028	Marionette	INFO	Listening on port 35837
+1599404948107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599404968051	Marionette	INFO	Stopped listening on port 35837
+1599405006328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLDDQt3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599405007847	Marionette	INFO	Listening on port 34677
+1599405008014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599405017805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyitjaO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599405019426	Marionette	INFO	Listening on port 35167
+1599405019510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599405034400	Marionette	INFO	Stopped listening on port 34677
+1599405035577	Marionette	INFO	Stopped listening on port 35167
+1599405039225	Marionette	INFO	Stopped listening on port 38397
+1599405041141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevFaEjL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599405042658	Marionette	INFO	Listening on port 36673
+1599405044163	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599405141084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler3tthB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599405142590	Marionette	INFO	Listening on port 40949
+1599405142730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599405228142	Marionette	INFO	Stopped listening on port 36673
+1599405230959	Marionette	INFO	Stopped listening on port 40949
+1599405234165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6An44R"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599405235826	Marionette	INFO	Listening on port 46679
+1599405235880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599405259590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9WW1jO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599405261170	Marionette	INFO	Listening on port 45213
+1599405261194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599405274480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3il2qk"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599405276075	Marionette	INFO	Listening on port 43661
+1599405276088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599405538427	Marionette	INFO	Stopped listening on port 46679
+1599405539839	Marionette	INFO	Stopped listening on port 45213
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1012:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn1.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1012:5)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2271))
+1599406001701	Marionette	INFO	Stopped listening on port 43661
+1599406005375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley7VJrY"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599406006952	Marionette	INFO	Listening on port 45487
+1599406006980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599406114447	Marionette	INFO	Stopped listening on port 45487
+1599406116797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaw4F2H"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599406118535	Marionette	INFO	Listening on port 44797
+1599406118602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599406153966	Marionette	INFO	Stopped listening on port 44797
+1599406155502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOWbMTi"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599406157047	Marionette	INFO	Listening on port 33977
+1599406157106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599406163299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileThhvIh"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599406164832	Marionette	INFO	Listening on port 43385
+1599406166338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599406168139	Marionette	INFO	Stopped listening on port 33977
+1599406381092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecX4VOU"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599406382538	Marionette	INFO	Listening on port 41017
+1599406384034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599406446513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGZrkAF"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599406448148	Marionette	INFO	Listening on port 44263
+1599406448218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599406618024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3Z2igB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599406619608	Marionette	INFO	Listening on port 46817
+1599406619722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599406647721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFNU3G8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599406649399	Marionette	INFO	Listening on port 44947
+1599406649461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599406796521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4J3B0i"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599406798154	Marionette	INFO	Listening on port 39443
+1599406798228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599406963579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRcswp4"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599406965020	Marionette	INFO	Listening on port 35221
+1599406965093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599407017072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIgyT2l"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599407018726	Marionette	INFO	Listening on port 45337
+1599407018787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599407207333	Marionette	INFO	Stopped listening on port 43385
+1599407209004	Marionette	INFO	Stopped listening on port 44263
+1599407210006	Marionette	INFO	Stopped listening on port 45337
+1599407211039	Marionette	INFO	Stopped listening on port 35221
+1599407212046	Marionette	INFO	Stopped listening on port 39443
+1599407213103	Marionette	INFO	Stopped listening on port 44947
+1599407214227	Marionette	INFO	Stopped listening on port 46817
+1599407215269	Marionette	INFO	Stopped listening on port 41017
+1599407219750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEUNFAZ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599407221501	Marionette	INFO	Listening on port 45131
+1599407221555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599407249533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3brIS7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599407251039	Marionette	INFO	Listening on port 33675
+1599407251197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599408358655	Marionette	INFO	Stopped listening on port 45131
+1599408360352	Marionette	INFO	Stopped listening on port 33675
+1599408389215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeMqwf9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599408391314	Marionette	INFO	Listening on port 44377
+1599408391324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599408445500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOVhXBt"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599408447484	Marionette	INFO	Listening on port 40035
+1599408447505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599408678084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile50m7Y4"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599408679889	Marionette	INFO	Listening on port 36361
+1599408679989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599408686400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDMbm6H"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599408688385	Marionette	INFO	Listening on port 37763
+1599408688405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599408691945	Marionette	INFO	Stopped listening on port 36361
+1599408726211	Marionette	INFO	Stopped listening on port 37763
+1599408787076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDz6Pky"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599408788866	Marionette	INFO	Listening on port 42775
+1599408788880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599408832290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletLbBNf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599408833926	Marionette	INFO	Listening on port 41995
+1599408834076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599408840652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefSRA0w"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599408842554	Marionette	INFO	Listening on port 33067
+1599408842559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599408972131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQmZSEm"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599408973774	Marionette	INFO	Listening on port 38781
+1599408975270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599408985114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOhjnpr"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599408986802	Marionette	INFO	Listening on port 40585
+1599408986841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599409026046	Marionette	INFO	Stopped listening on port 44377
+1599409028157	Marionette	INFO	Stopped listening on port 40585
+1599409029180	Marionette	INFO	Stopped listening on port 38781
+1599409029967	Marionette	INFO	Stopped listening on port 33067
+1599409030979	Marionette	INFO	Stopped listening on port 41995
+1599409032053	Marionette	INFO	Stopped listening on port 42775
+1599409033434	Marionette	INFO	Stopped listening on port 40035
+1602100646443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7KvroQ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602100649498	Marionette	INFO	Listening on port 35621
+1602100649554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602100695779	Marionette	INFO	Stopped listening on port 35621
+1602851614939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenRUUmi"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602851616808	Marionette	INFO	Listening on port 33813
+1602851616846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602851659228	Marionette	INFO	Stopped listening on port 33813
+1602851668856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGLFQpO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602851670572	Marionette	INFO	Listening on port 35625
+1602851670663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602851717484	Marionette	INFO	Stopped listening on port 35625
+1602851718298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJkmohf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602851720005	Marionette	INFO	Listening on port 33063
+1602851720107	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1602851745532	Marionette	INFO	Stopped listening on port 33063
+1602852029079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3hPuxP"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602852030921	Marionette	INFO	Listening on port 37485
+1602852030994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602852091134	Marionette	INFO	Stopped listening on port 37485
+1602852186396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJU5Y5f"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602852188366	Marionette	INFO	Listening on port 46757
+1602852188403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602852342548	Marionette	INFO	Stopped listening on port 46757
+1602852344458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqcYbDE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602852346110	Marionette	INFO	Listening on port 35947
+1602852346222	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602852671693	Marionette	INFO	Stopped listening on port 35947
+1602852673510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHhnJ0O"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602852675108	Marionette	INFO	Listening on port 35567
+1602852675167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602852723628	Marionette	INFO	Stopped listening on port 35567
+1602852725872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3fmwlY"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602852727640	Marionette	INFO	Listening on port 42811
+1602852727677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602852853766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePXrZOw"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602852855514	Marionette	INFO	Listening on port 43275
+1602852855572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602852892481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekPpKBl"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602852893997	Marionette	INFO	Listening on port 35293
+1602852894169	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602852927226	Marionette	INFO	Stopped listening on port 43275
+1602852932732	Marionette	INFO	Stopped listening on port 35293
+1602852960111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiqB3Qk"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602852961970	Marionette	INFO	Listening on port 35019
+1602852962016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602854051883	Marionette	INFO	Stopped listening on port 35019
+1602854412928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6F0iOG"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602854414777	Marionette	INFO	Listening on port 36633
+1602854414843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602854506716	Marionette	INFO	Stopped listening on port 36633
+1602854511819	Marionette	INFO	Stopped listening on port 42811
+1603410719625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileACaI9u"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603410721511	Marionette	INFO	Listening on port 44945
+1603410721530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1151: TypeError: e.originalTarget.closest is not a function
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 567: TypeError: doc is null
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1151: TypeError: e.originalTarget.closest is not a function
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 567: TypeError: doc is null
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+JavaScript error: resource://devtools/client/fronts/walker.js, line 160: Error: The ValueGrip passed could not be translated to a NodeFront
+console.error: (new TypeError("this.nodeHierarchy[this.currentIndex] is undefined", "resource://devtools/client/inspector/breadcrumbs.js", 800))
+TypeError: this.nodeHierarchy[this.currentIndex] is undefined: scroll@resource://devtools/client/inspector/breadcrumbs.js:800:23
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+onOverflow@resource://devtools/client/inspector/breadcrumbs.js:206:10
+
+JavaScript error: resource://devtools/server/actors/webconsole/utils.js, line 417: SyntaxError: The expression is not a legal expression.
+JavaScript error: resource://devtools/server/actors/webconsole/utils.js, line 417: SyntaxError: The expression is not a legal expression.
+JavaScript error: resource://devtools/server/actors/webconsole/utils.js, line 417: SyntaxError: The expression is not a legal expression.
+JavaScript error: resource://devtools/server/actors/webconsole/utils.js, line 417: SyntaxError: The expression is not a legal expression.
+JavaScript error: resource://devtools/server/actors/webconsole/utils.js, line 417: SyntaxError: The expression is not a legal expression.
+JavaScript error: resource://devtools/server/actors/webconsole/utils.js, line 417: SyntaxError: The expression is not a legal expression.
+JavaScript error: https://www.jetbrains.com/_assets/common.3559874c281a455c7a5e.js, line 72: AbortError: Aborted
+1603415348686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu58cPy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603415351106	Marionette	INFO	Listening on port 40219
+1603415351197	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603415418621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile088NWs"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603415420784	Marionette	INFO	Listening on port 33501
+1603415420829	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1603415488050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley2Xl8r"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603415490139	Marionette	INFO	Listening on port 44909
+1603415490157	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603415535640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ6AlmW"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603415537370	Marionette	INFO	Listening on port 44993
+1603415537445	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603415550468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIG1Kwe"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603415552335	Marionette	INFO	Listening on port 33691
+1603415552373	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603415635917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYdtpQe"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603415638122	Marionette	INFO	Listening on port 32845
+1603415638231	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603415759120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2lMy2b"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603415761122	Marionette	INFO	Listening on port 41847
+1603415761129	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603416029028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7VA0oP"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603416031006	Marionette	INFO	Listening on port 44245
+1603416031034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603416087538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQk0bGl"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603416089561	Marionette	INFO	Listening on port 46485
+1603416089663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603416166636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletEZKii"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603416169036	Marionette	INFO	Listening on port 43223
+1603416169053	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603416302500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY5lPY9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603416304693	Marionette	INFO	Listening on port 45467
+1603416304707	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603416338545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7cC5ca"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603416340634	Marionette	INFO	Listening on port 41271
+1603416340649	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603416400326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNF0hzi"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603416402364	Marionette	INFO	Listening on port 34445
+1603416402433	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603416504343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDa3Dd5"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603416506584	Marionette	INFO	Listening on port 39529
+1603416506661	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603416615728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBhSM1L"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603416617750	Marionette	INFO	Listening on port 40769
+1603416617835	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603416668890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileasZpgO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603416671075	Marionette	INFO	Listening on port 43937
+1603416671098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.jetbrains.com/_assets/common.3559874c281a455c7a5e.js, line 72: Script terminated by timeout at:
+EVdn/</E.Event@https://www.jetbrains.com/_assets/common.3559874c281a455c7a5e.js:72:39652
+fix@https://www.jetbrains.com/_assets/common.3559874c281a455c7a5e.js:72:39033
+r/e.event.fix@https://www.jetbrains.com/_assets/common.3559874c281a455c7a5e.js:148:5189
+n@https://www.jetbrains.com/_assets/common.3559874c281a455c7a5e.js:72:66684
+sentryWrapped@https://browser.sentry-cdn.com/5.7.1/bundle.min.js:2:37371
+
+1603416797054	Marionette	INFO	Stopped listening on port 44245
+1603416803680	Marionette	INFO	Stopped listening on port 46485
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+1603416813271	Marionette	INFO	Stopped listening on port 44945
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603416895623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZiuwak"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603416897695	Marionette	INFO	Listening on port 40067
+1603416897727	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+1603417338063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM3l1yK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603417340045	Marionette	INFO	Listening on port 34723
+1603417340069	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603417407198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRTMCBT"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603417408821	Marionette	INFO	Listening on port 41847
+1603417408969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603920821177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFAsTga"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603920822665	Marionette	INFO	Listening on port 36141
+1603920822702	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 37533, MediaDecoderStateMachine #1] WARNING: 7f6fce704ae0 OpenCubeb() failed to init cubeb: file /build/firefox-dkMNxn/firefox-82.0+build2/dom/media/AudioStream.cpp, line 330
+[Child 37533, MediaDecoderStateMachine #1] WARNING: Decoder=7f6fcea9c800 [OnMediaSinkAudioError]: file /build/firefox-dkMNxn/firefox-82.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3892
+[Child 37533, MediaDecoderStateMachine #1] WARNING: Decoder=7f6fcea9c800 Decode error: NS_ERROR_DOM_MEDIA_MEDIASINK_ERR (0x806e000b) - OnMediaSinkAudioError: file /build/firefox-dkMNxn/firefox-82.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3471
+1603920835941	Marionette	INFO	Stopped listening on port 36141
+1603920929125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8IousX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603920930842	Marionette	INFO	Listening on port 38667
+1603920930945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://beacon-v2.helpscout.net/static/js/vendor.5fd362e8.js, line 1: Error: Network Error
+1603921103513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyERthr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603921105088	Marionette	INFO	Listening on port 46467
+1603921105136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603921170827	Marionette	INFO	Stopped listening on port 38667
+1603921223939	Marionette	INFO	Stopped listening on port 46467
+1603921232571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegk3KxX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603921234213	Marionette	INFO	Listening on port 40209
+1603921234294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603921251827	Marionette	INFO	Stopped listening on port 40209
+1603921266784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTRQzyc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603921268554	Marionette	INFO	Listening on port 45181
+1603921268607	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603921580667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB7gk1U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603921582283	Marionette	INFO	Listening on port 41249
+1603921582391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603921945834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCvotEZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603921947708	Marionette	INFO	Listening on port 40993
+1603921947756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/webconsole/utils.js, line 417: NamespaceError: An attempt was made to create or change an object in a way which is incorrect with regard to namespaces
+JavaScript error: resource://devtools/server/actors/webconsole/utils.js, line 417: NamespaceError: An attempt was made to create or change an object in a way which is incorrect with regard to namespaces
+1603922727235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAtTims"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603922728954	Marionette	INFO	Listening on port 41021
+1603922729054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603922825465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN8wF2L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603922827215	Marionette	INFO	Listening on port 35769
+1603922827285	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603922859138	Marionette	INFO	Stopped listening on port 41249
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603922861334	Marionette	INFO	Stopped listening on port 40993
+1603922863543	Marionette	INFO	Stopped listening on port 41021
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1604269471932	geckodriver	INFO	Listening on 127.0.0.1:53469
+1604269471935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemupjfZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604269473632	Marionette	INFO	Listening on port 38065
+1604269473714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604269480455	Marionette	INFO	Stopped listening on port 38065
+1604270265687	geckodriver	INFO	Listening on 127.0.0.1:58713
+1604270265690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehZ84jB"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604270267182	Marionette	INFO	Listening on port 39465
+1604270267210	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604270319672	geckodriver	INFO	Listening on 127.0.0.1:47453
+1604270319675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBfHzUE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604270321120	Marionette	INFO	Listening on port 40527
+1604270321211	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1604274886659	geckodriver	INFO	Listening on 127.0.0.1:38617
+1604274886663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileODFKf4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604274888021	Marionette	INFO	Listening on port 37573
+1604274888087	Marionette	WARN	TLS certificate errors will be ignored for this session
