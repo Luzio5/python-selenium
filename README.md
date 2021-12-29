@@ -1,7 +1,7 @@
 # python-selenium-projects
-
+```
 git clone https://github.com/Luzio5/python-selenium
-
+```
 ## Instalación astro_bot
 ```
 cd astro_bot
@@ -9,6 +9,7 @@ cd astro_bot
 ```
 
 ## Instalación sinergia_auto_clase
+```
 cd sinergia_auto_clase
 ./auto.py
 ```
