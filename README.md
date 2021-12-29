@@ -1,14 +1,14 @@
 # python-selenium-projects
 
+git clone https://github.com/Luzio5/python-selenium
+
 ## Instalación astro_bot
 ```
-git clone https://gitlab.com/Luzio5/p_contrasena
 cd astro_bot
 ./bot_mensual.py ó ./bot.py
 ```
 
 ## Instalación sinergia_auto_clase
-git clone https://gitlab.com/Luzio5/p_contrasena
 cd sinergia_auto_clase
 ./auto.py
 ```
